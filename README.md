@@ -79,7 +79,7 @@ pip install -r requirements.txt
 ```
 
 * ### 5. Add Dataset Files (If Not Included)
-Place your dataset files (like housing.xlsx, input.xlsx) into the Datasets/ folder
+Place your dataset files (like housing.xlsx, input.xlsx) into the Datasets folder
 
 * ### 6. Train the Model
 :- Load dataset  
